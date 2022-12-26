@@ -1,6 +1,7 @@
 # The Maze Project - Portfolio
 
 ---
+![Maze Screenshot](Screenshot%202022-12-26%20140118.jpg)
 
 The maze project is an adaptation of the `Wolfenstein 1981 3D` game. The project uses the concept of Raycasting to serve as the viewpoint of the player, giving it a first-person player view. Maps in the game are created using 2D-matrix arrays, which are seen when the player's raycast touch the blocks of the map.
 
