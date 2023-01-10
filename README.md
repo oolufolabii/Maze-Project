@@ -48,3 +48,4 @@ This creates the executable file `raycast` (which is currently in this GitHub re
 ## Contributors
 
 - Otitoola Olufolabi [Github](https://github.com/oolufolabii)
+- Hanif Miyanji      [Github](https://github.com/hanifanwar380)
